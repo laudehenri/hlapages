@@ -1266,7 +1266,7 @@ that the risk occurs. Should it be managed as a requirement?.
 State how the solution is compliant with the YOUR ORGANIZATION's Norms
 and Standards, or comment the gaps.
 
-Check with your rules , for example :
+Check with your rules , for example (at the **Enterprise Architecture level** "EA") :
 
 | **EA Rules**                              | **Compliant (Y/N)**                              | **Reasons for non-compliance** |
 |-------------------------------------------|--------------------------------------------------|--------------------------------|
